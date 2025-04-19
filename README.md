@@ -4,7 +4,7 @@ A simple Next App Starter built with **Next.js**, **TypeScript**, **Redux** and 
 
 ## ✨ Features
 
-- ⚡ **Next.js 14 + App Router** – Optimized for performance
+- ⚡ **Next.js 15 + App Router** – Optimized for performance
 - 🎨 **Tailwind CSS** – Modern styling with dark mode support
 - 🛠️ **TypeScript** – Ensures type safety and maintainability
 - 🛠️ **Redux** – Predictable state management for scalable apps
